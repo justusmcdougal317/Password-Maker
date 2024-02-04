@@ -1,1 +1,1 @@
-# Password-Maker
+Mission for this application was to build a password generator for users to quickly create secure passwords to protect what they need. This app runs in browser and feautures dynamcially updated HTML and CSS powered by the javascript code written in the repository. With clean userinterface that is responsive. Press Generate password. Enter Password or password length wich ever you are prompted with and make sure they maych and save and it will create entered password. 
